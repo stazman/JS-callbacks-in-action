@@ -1,3 +1,5 @@
+//SOLUTION IN CANVAS/IN BROWSER:
+
 // let monthlyProfitLabels = [ 'January: 5', 'February: -1', 'March: 12' ];
 // let monthList = document.querySelector(".month-list");
 
